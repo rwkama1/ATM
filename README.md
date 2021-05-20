@@ -68,7 +68,7 @@ Basic operations for an ATM
             }
             else{
                 console.log("                                                    ");
-                atm.balance=newbalance;
+                atm.balance=resul;
                 console.log("Your current balance is: "+ atm.check_balance());
             }
             

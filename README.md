@@ -83,7 +83,4 @@ Basic operations for an ATM
         show_enter_balance(33.25,"asd");
         show_withdraw_balance(89.52,"asd");
 
-
-
-
 ```

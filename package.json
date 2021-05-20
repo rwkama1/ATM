@@ -1,0 +1,16 @@
+{
+  "name": "atm-operations",
+  "version": "1.0.0",
+  "description": "Basic operations for an ATM",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/ATM"
+  },
+ 
+  "keywords": ["js","javascript","calculation","ATM","atm","operations","balance"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
